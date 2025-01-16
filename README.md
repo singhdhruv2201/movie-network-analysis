@@ -123,7 +123,7 @@ The network graph consists of:
 
 ---
 
-**Contact**: For queries or contributions, please contact [Your Name](mailto\:dsingh28@hawk.iit.edu).
+**Contact**: For queries or contributions, please contact [Dhruv Singh](mailto\:dsingh28@hawk.iit.edu).
 
 ---
 
